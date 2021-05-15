@@ -1,0 +1,46 @@
+section{
+    width:60%;
+    margin: 0 auto;
+}
+
+.heading{
+    height:100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.heading h1{
+    padding: 35px 0px;
+}
+
+.elements{
+    height:500px;
+    border: 1px solid black;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    height:50px;
+    text-align: center;
+    background-color:black;
+    
+}
+
+.footer button{
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+
+
+.bar{
+    width: 28px;
+    
+    background-color: rgb(0, 183, 255);
+    transition: 0.2s all ease;
+   
+    
+}
